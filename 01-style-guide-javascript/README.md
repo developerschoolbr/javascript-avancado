@@ -6,9 +6,9 @@ https://prettier.io/docs/en/install.html
 
 ###### vs code plugin
 
-eslint
-prettier - code formatter
-Editor Config
+- VS Code extensions:ESLint
+- VS Code extensions:Prettier - Code formatter
+- VS Code extensions: EditorConfig for VS Code
 
 ###### npm init
 
