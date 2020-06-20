@@ -62,6 +62,7 @@ Install prettier
 ```sh
 $ yarn add eslint -
 $ yarn add prettier --dev
+```
 
 ###### user setting
 
