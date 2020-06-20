@@ -22,6 +22,6 @@
 - VS Code
 - npm
 - yarn
-- VS Code extensions:ESLint
-- VS Code extensions:Prettier - Code formatter
+- VS Code extensions: ESLint
+- VS Code extensions: Prettier - Code formatter
 - VS Code extensions: EditorConfig for VS Code
